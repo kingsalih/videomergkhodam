@@ -7,7 +7,7 @@ This is very simple Telegram Videos Merge Bot by [@AbirHasan2005](https://t.me/A
 - Broadcast To All Started Users.
 - 2GB+ Files will Upload to Streamtape.
 - Others check by your own feeling lazy to describe.
-
+[![Deployment status from DeployBot](https://savior128.deploybot.com/badge/34534836150612/208800.svg)](https://deploybot.com)
 ## Demo Bot:
 <a href="https://t.me/AH_VideoMergeBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
